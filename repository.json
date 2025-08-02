@@ -1,4 +1,9 @@
 {
   "Releases": [
+    {
+      "Id": "YCH",
+      "Version": "1.0.0",
+      "DownloadUrl": "https://ychrepo.yqloss.net/releases/1.0.0.zip"
+    }
   ]
 }
