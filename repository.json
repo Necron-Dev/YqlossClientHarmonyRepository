@@ -14,6 +14,11 @@
       "Id": "YCH",
       "Version": "1.2.0",
       "DownloadUrl": "https://ychrepo.yqloss.net/releases/1.2.0.zip"
+    },
+    {
+      "Id": "YCH",
+      "Version": "1.2.1",
+      "DownloadUrl": "https://ychrepo.yqloss.net/releases/1.2.1.zip"
     }
   ]
 }
